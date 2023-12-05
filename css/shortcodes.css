@@ -92,7 +92,7 @@
     /* padding-top: 0px; */
 
 	margin-top: -4em;
-
+	background-color: #000;
 }
 
 .home-banner::before {
@@ -109,7 +109,7 @@
 
 	bottom: 0;
 
-	background-color: #f2faff;
+	background-color: black;
 
 	opacity: 0;
 
@@ -193,7 +193,7 @@
 
 	width: 100%;
 
-	color: #33a9ee;
+	color: white
 
 	font-size: 17px;
 
@@ -213,7 +213,7 @@
 
     margin-bottom: 1em;
 
-    color: cornflowerblue;
+    color: white
 
     text-transform: uppercase;
 
@@ -1341,7 +1341,7 @@
 	z-index: 1;
 
 	position: relative;
-
+	background-color: black;
 }
 
 .what-we-do-block p,
@@ -1351,6 +1351,9 @@
 .what-we-do-title .what-we-do-block:hover p {
 
   font-size: large;
+
+
+
 	position: relative;
 
 }
