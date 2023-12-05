@@ -478,7 +478,6 @@ ul {
 	padding-right: 60px;
 	padding-bottom: 0;
 	color: #888;
-	background-color: transparent;
 	margin-bottom: 0;
 	border: none;
 }
@@ -599,7 +598,6 @@ ul {
 .footer-main .widget-newsletter .input-group span button {
 	height: 50px;
 	width: 100%;
-	background-color: #0f89d1;
 	border-radius: 0;
 	border: none;
 	font-size: 25px;
@@ -636,13 +634,12 @@ ul {
     transition: all 1s ease 0s;
 }
 .footer-main .widget-newsletter .social li a:hover {
-	background-color: #fff;
 	color: #2d3741;
 }
 
 /* -- Bottom Footer */
 .bottom-footer {
-	background-color: #111416;
+	background-color: #49667a;
 	padding: 30px 0;
 	text-align: center;
 	margin-top: 72px;

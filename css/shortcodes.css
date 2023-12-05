@@ -884,7 +884,7 @@
 
 	.service-section2 {
 
-		background-color: #f5f6f7;
+		background-color: black;
 
 	}
 
@@ -894,7 +894,7 @@
 
 	.service-section2 .appoinment-form {
 
-		background-color: #fff;
+		background-color: black;
 
 	}
 
@@ -1351,9 +1351,6 @@
 .what-we-do-title .what-we-do-block:hover p {
 
   font-size: large;
-
-	color: #999;
-
 	position: relative;
 
 }
@@ -1376,13 +1373,12 @@
 
 .what-we-do-title .what-we-do-block {
 
-	background-color: #fff;
+	background-color: black;
 
 }
 
 .what-we-do-title .what-we-do-block h3 {
 
-	color: #222;
 
 	font-size: 18px;
 
