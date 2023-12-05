@@ -604,7 +604,8 @@
 	padding-top: 38px;
 
 	padding-bottom: 117px;
-
+    background-color: #222;
+	color: white;
 }
 
 .section-header h3 {
@@ -613,7 +614,7 @@
 
 	font-weight: 700;
 
-	color: #333;
+	color: white;
 
 	margin: 0;
 
@@ -645,7 +646,7 @@
 
 .section-header > p {
 
-	color: #999;
+	color: white;
 
 	display: inline-block;
 
@@ -685,7 +686,7 @@
 
 	margin-bottom: 16px;
 
-	color: #333;
+	color: white;
 
 	font-size: 13px;
 
@@ -870,8 +871,6 @@
 }
 
 .service-block-content > p {
-
-	color: #777;
 
 	display: inline-block;
 

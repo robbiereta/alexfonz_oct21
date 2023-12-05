@@ -41,7 +41,7 @@ img.logo-fonz-ftr {
     height: 9em;
 }
 .white{
-  color:;
+  color:white;
 }
 a.google_maps_2 {
   background-color: white;
@@ -65,7 +65,7 @@ span.direccion_2 {
 }
 
 .reviews .review {
-    background: #fff;
+    background: #f9f9f9;
     position: relative;
     padding: 55px 25px 35px 25px;
 }
