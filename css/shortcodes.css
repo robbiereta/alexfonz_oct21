@@ -193,7 +193,7 @@
 
 	width: 100%;
 
-	color: white
+	color: white;
 
 	font-size: 17px;
 
@@ -213,7 +213,7 @@
 
     margin-bottom: 1em;
 
-    color: white
+    color: white;
 
     text-transform: uppercase;
 
@@ -1234,21 +1234,6 @@
 
 }
 
-.what-we-do-block::after,
-
-.what-we-do-block > img,
-
-.what-we-do-block-content i img,
-
-.what-we-do-block-content h5,
-
-.what-we-do-block p {
-
-}
-
-.what-we-do-block::after {
-
-}
 
 .what-we-do-block > img {
 
@@ -1258,13 +1243,6 @@
 
 }
 
-.what-we-do-block:hover::after {
-
-}
-
-.what-we-do-block:hover img {
-
-}
 
 .what-we-do-block-content {
 
@@ -1314,9 +1292,7 @@
 
 }
 
-.what-we-do-block:hover i img {
 
-}
 
 .what-we-do-block-content h5 {
 
@@ -1326,7 +1302,7 @@
 
 	font-size: 13px;
 
-	color: white
+	color: white;
 
 	font-weight: 600;
 
@@ -1355,14 +1331,6 @@
 
 
 	position: relative;
-
-}
-
-.what-we-do-block:hover h5,
-
-.what-we-do-block:hover p {
-
-
 
 }
 
@@ -2572,8 +2540,6 @@
 	display: inline-block;
 
 	width: 100%;
-
-	float: left;
 
 	margin-bottom: 35px;
 
@@ -5209,7 +5175,7 @@ a.google_maps_2.direccion-left {
 
 	.emargency-case {
 
-		padding-right: 15px
+		padding-right: 15px;
 
 		height: 35em;
 
